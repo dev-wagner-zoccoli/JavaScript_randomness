@@ -1,6 +1,6 @@
 # JavaScript - Terminologies & Definitions
 
-### This repository contains a bunch o random tests and studies of JavaScript. This read.me also presents a series of questions posed by the ront End Wed Development Industry Training hosted by [Brainnest Consulting](https://www.brainnest.consulting/)
+### This repository contains a bunch o random tests and studies of JavaScript. This read.me also presents a series of questions posed by the Front End Wed Development Industry Training hosted by [Brainnest Consulting](https://www.brainnest.consulting/)
 
 **_1. Name the three ways to declare a variable?_**
 
